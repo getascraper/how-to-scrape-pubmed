@@ -1,0 +1,32 @@
+{
+  "name": "how-to-scrape-pubmed",
+  "version": "1.0.0",
+  "description": "How to scrape PubMed papers in Node.js using the Apify PubMed Scraper for RAG actor",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "pubmed",
+    "biomedical",
+    "scraper",
+    "web-scraping",
+    "data-extraction",
+    "rag",
+    "apify",
+    "apify-actor",
+    "nodejs",
+    "research",
+    "medicine"
+  ],
+  "author": "getascraper",
+  "license": "MIT",
+  "dependencies": {
+    "apify-client": "^2.10.0",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

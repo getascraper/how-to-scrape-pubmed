@@ -1,0 +1,21 @@
+[
+  {
+    "pmid": "38012345",
+    "pmcid": "PMC10123456",
+    "doi": "10.1038/s41586-024-01234-5",
+    "title": "Durable protection against SARS-CoV-2 variants after boosting",
+    "abstract": "...",
+    "authors": ["Jane Smith", "John Doe"],
+    "journal": "Nature",
+    "mesh_terms": ["SARS-CoV-2", "Vaccines", "Immunization, Secondary"],
+    "article_types": ["Journal Article", "Research Support, N.I.H., Extramural"],
+    "publication_date": "2024-03-15",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38012345",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10123456/pdf/",
+    "source": "full_text",
+    "chunks": [
+      { "idx": 0, "text": "...", "tokens": 487 },
+      { "idx": 1, "text": "...", "tokens": 512 }
+    ]
+  }
+]
