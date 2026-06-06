@@ -1,13 +1,13 @@
 <div align="center">
 
-# PubMed Scraper for RAG: Biomedical Papers as JSON
+# PubMed Scraper | Medical Literature Data Extraction API | Apify Actor
 
 [![Apify Actor](https://img.shields.io/badge/Apify-Actor-ff6b35?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/devanshlive/pubmed-rag-extractor)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-e31b23?style=for-the-badge)](https://github.com/getascraper)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge)](https://github.com/getascraper/how-to-scrape-pubmed)
 
-**Extract PubMed papers into RAG-ready chunks with full-text and abstract fallback in seconds.**
+**PubMed scraper and medical literature data extraction API. Extract papers, abstracts, and citations from PubMed with this Apify actor. Free tier included.**
 
 Built for biomedical researchers, pharma analysts, and AI developers who need clean, structured clinical literature without XML parsing.
 

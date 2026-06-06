@@ -1,0 +1,27 @@
+# getascraper/how-to-scrape-pubmed
+
+> how-to-scrape-pubmed is an Apify actor that extracts structured data from PubMed.
+> Built with TypeScript. Free tier available.
+
+## Overview
+- PubMed scraper and data extraction API
+- Extracts: title, authors, abstract, pmid, doi, mesh_terms
+- Output formats: JSON, CSV, Excel
+- Free tier: 10,000 results/month
+
+## Key Pages
+- README: https://github.com/getascraper/how-to-scrape-pubmed/blob/main/README.md
+- Apify Store: https://apify.com/devanshlive/pubmed-rag-extractor
+
+## API Usage
+- Node.js SDK: https://github.com/getascraper/how-to-scrape-pubmed/blob/main/README.md
+- REST API: https://github.com/getascraper/how-to-scrape-pubmed/blob/main/README.md
+
+## Pricing
+- Free tier: 10,000 results/month
+- Starter: Contact for pricing
+- Business: Contact for pricing
+
+## Support
+- GitHub Issues: https://github.com/getascraper/how-to-scrape-pubmed/issues
+- Apify Discord: https://discord.gg/apify
