@@ -2,7 +2,7 @@
 
 # PubMed Scraper | Medical Literature Data Extraction API | Apify Actor
 
-[![Apify Actor](https://img.shields.io/badge/Apify-Actor-ff6b35?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/devanshlive/pubmed-rag-extractor)
+[![Apify Actor](https://img.shields.io/badge/Apify-Actor-ff6b35?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/getascraper/pubmed-rag-extractor)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-Love-e31b23?style=for-the-badge)](https://github.com/getascraper)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge)](https://github.com/getascraper/how-to-scrape-pubmed)
@@ -27,7 +27,7 @@ import 'dotenv/config';
 
 const client = new ApifyClient({ token: process.env.APIFY_TOKEN });
 
-const run = await client.actor('devanshlive/pubmed-rag-extractor').call({
+const run = await client.actor('getascraper/pubmed-rag-extractor').call({
   searchTerm: 'SARS-CoV-2 vaccines',
   articleTypes: ['review', 'meta_analysis'],
   dateFrom: '2024-01-01',
@@ -174,7 +174,7 @@ No. MeSH terms are optional. You can search by free-text query alone.
 
 ## Support
 
-Open an issue in the [Apify Console](https://console.apify.com/actors/devanshlive~pubmed-rag-extractor/issues).
+Open an issue in the [Apify Console](https://console.apify.com/actors/getascraper~pubmed-rag-extractor/issues).
 
 ---
 
@@ -187,4 +187,4 @@ Open an issue in the [Apify Console](https://console.apify.com/actors/devanshliv
 
 **Ready to start extracting?**
 
-[Open the PubMed Scraper for RAG on Apify](https://apify.com/devanshlive/pubmed-rag-extractor)
+[Open the PubMed Scraper for RAG on Apify](https://apify.com/getascraper/pubmed-rag-extractor)

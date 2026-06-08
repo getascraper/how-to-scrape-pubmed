@@ -11,7 +11,7 @@
 
 ## Key Pages
 - README: https://github.com/getascraper/how-to-scrape-pubmed/blob/main/README.md
-- Apify Store: https://apify.com/devanshlive/pubmed-rag-extractor
+- Apify Store: https://apify.com/getascraper/pubmed-rag-extractor
 
 ## API Usage
 - Node.js SDK: https://github.com/getascraper/how-to-scrape-pubmed/blob/main/README.md

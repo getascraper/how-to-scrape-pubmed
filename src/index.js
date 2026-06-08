@@ -13,7 +13,7 @@ const input = {
   maxPapers: 10,
 };
 
-const run = await client.actor('devanshlive/pubmed-rag-extractor').call(input);
+const run = await client.actor('getascraper/pubmed-rag-extractor').call(input);
 
 console.log('Results from dataset');
 console.log(`Check your data here: https://console.apify.com/storage/datasets/${run.defaultDatasetId}`);
